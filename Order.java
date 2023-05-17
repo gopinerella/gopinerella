@@ -3,7 +3,7 @@ package com.amway.gi.os.pojo;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class Root {
+public class Order {
     public String aboOrderId;
     public ArrayList<Address> addresses;
     public ArrayList<Adjustment> adjustments;
